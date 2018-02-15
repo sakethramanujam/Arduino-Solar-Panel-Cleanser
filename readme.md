@@ -6,9 +6,9 @@ professors wanted us to develop a mechanism which would resolve this issue. So w
 
 ## Design
 - **Components**
-      * Arduino UNO
-      * Direct Current Motors (specifications to be updated when project is live)
-      * Motor Driver Unit
+     -Arduino UNO
+     -Direct Current Motors (specifications to be updated when project is live)
+     -Motor Driver Unit
 - **Design Schematic**
 ![Image of Circuit Diagram]()
 ## Code Review
